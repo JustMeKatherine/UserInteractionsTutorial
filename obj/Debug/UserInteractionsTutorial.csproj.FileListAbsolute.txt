@@ -1,0 +1,12 @@
+C:\Users\Kat\Documents\Visual Studio 2015\Projects\3_frameworki\UserInteractionsTutorial\UserInteractionsTutorial\bin\Debug\UserInteractionsTutorial.dll
+C:\Users\Kat\Documents\Visual Studio 2015\Projects\3_frameworki\UserInteractionsTutorial\UserInteractionsTutorial\bin\Debug\UserInteractionsTutorial.pdb
+C:\Users\Kat\Documents\Visual Studio 2015\Projects\3_frameworki\UserInteractionsTutorial\UserInteractionsTutorial\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kat\Documents\Visual Studio 2015\Projects\3_frameworki\UserInteractionsTutorial\UserInteractionsTutorial\bin\Debug\nunit.framework.dll
+C:\Users\Kat\Documents\Visual Studio 2015\Projects\3_frameworki\UserInteractionsTutorial\UserInteractionsTutorial\bin\Debug\WebDriver.dll
+C:\Users\Kat\Documents\Visual Studio 2015\Projects\3_frameworki\UserInteractionsTutorial\UserInteractionsTutorial\bin\Debug\WebDriver.Support.dll
+C:\Users\Kat\Documents\Visual Studio 2015\Projects\3_frameworki\UserInteractionsTutorial\UserInteractionsTutorial\bin\Debug\nunit.framework.xml
+C:\Users\Kat\Documents\Visual Studio 2015\Projects\3_frameworki\UserInteractionsTutorial\UserInteractionsTutorial\bin\Debug\WebDriver.xml
+C:\Users\Kat\Documents\Visual Studio 2015\Projects\3_frameworki\UserInteractionsTutorial\UserInteractionsTutorial\bin\Debug\WebDriver.Support.xml
+C:\Users\Kat\Documents\Visual Studio 2015\Projects\3_frameworki\UserInteractionsTutorial\UserInteractionsTutorial\obj\Debug\UserInteractionsTutorial.dll
+C:\Users\Kat\Documents\Visual Studio 2015\Projects\3_frameworki\UserInteractionsTutorial\UserInteractionsTutorial\obj\Debug\UserInteractionsTutorial.pdb
+C:\Users\Kat\Documents\Visual Studio 2015\Projects\3_frameworki\UserInteractionsTutorial\UserInteractionsTutorial\obj\Debug\UserInteractionsTutorial.csprojResolveAssemblyReference.cache
